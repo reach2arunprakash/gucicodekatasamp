@@ -1,2 +1,1 @@
-ngfhgdbvcvbb
-bnb
+print("hello guvi")
